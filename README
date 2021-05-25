@@ -1,0 +1,11 @@
+# Shared blog for microos.opensuse.org and kubic.opensuse.org
+
+These are the jekyll sources for the blog shared by microos.opensuse.org and kubic.opensuse.org
+
+It is used as a git submodule by https://github.com/kubic-project/kubic-o-o and https://github.com/kubic-project/microos-o-o
+
+## How to Contribute
+
+Please add new blog posts in the /blog folder, using standard Jekyll markdown and metadata.
+
+Using an existing blog post as reference is a good idea for first time blog posts, just be sure to change all of the dates/times in the header to a valid (new) date so your new blog post is posted in the right order.
